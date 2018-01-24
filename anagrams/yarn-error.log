@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/nwre87/.nvm/versions/node/v6.11.3/bin/node /usr/local/Cellar/yarn/1.2.1/libexec/bin/yarn.js init
+
+PATH: 
+  /opt/apache-maven-3.3.9/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/bin:/Users/nwre87/.nvm/versions/node/v6.11.3/bin:/usr/local/heroku/bin:/Users/nwre87/.rbenv/shims:/Applications/Postgres.app/Contents/Versions/9.3/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/nwre87/Documents/workspace/Golang/bin:/Users/nwre87/Library/Android/sdk/tools:/Users/nwre87/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/local/sbin
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  6.11.3
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/Cellar/yarn/1.2.1/libexec/lib/cli.js:120971:13)
+      at emitNone (events.js:86:13)
+      at Interface.emit (events.js:185:7)
+      at Interface._ttyWrite (readline.js:725:16)
+      at ReadStream.onkeypress (readline.js:120:10)
+      at emitTwo (events.js:106:13)
+      at ReadStream.emit (events.js:191:7)
+      at emitKeys (internal/readline.js:389:14)
+      at next (native)
+      at ReadStream.onData (readline.js:971:36)
