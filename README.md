@@ -1,3 +1,3 @@
-# All-the-rythms-and-data-punctures
+# 99 Problems
 
-My personal library of learning and solving problems! :bowtie:
+My personal library/bucket of learning and solving problems! :bowtie:
